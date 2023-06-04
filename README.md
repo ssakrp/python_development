@@ -1,2 +1,2 @@
 # python_development
-I published this project as example of Python development.
+I published this project as example of Python development. The main idea of the project is development of class, which will describe a graph, and a functional for processing this graph. As for me, I had to implement a functional for searching path between two points without visiting center points. More information you can find in a file called "information" (RUS), where I published full report about the program.
